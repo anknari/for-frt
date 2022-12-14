@@ -7,8 +7,10 @@ This is a web based application developed for fashion related telugu based websi
 
 
 *Project Link* - https://kind-bush-09ecf4d10.2.azurestaticapps.net
-*Project demo videolink Link* - 
-
+*Project demo videolink Link* - https://github.com/anknari/for-frt/blob/main/Frederick%20a%20Fashion%20category%20Flat%20bootstrap%20Responsive%20Website%20Template%20_%20Home%20__%20narendra%20-%20Google%20Chrome%202022-12-14%2021-23-40.mp4
+#### Azure resourses
+#### 1) static webapps 
+#### 2) health bot service
 
 ## Features and Functionalities😃😃😃😃
 
@@ -31,6 +33,10 @@ This is a web based application developed for fashion related telugu based websi
 <img width="1080" alt="grophy" src="https://user-images.githubusercontent.com/118097195/203602761-7a1301d3-801a-4c86-af74-2d9198caf9fb.png">
 ## bot servive
 <img width="1074" alt="bot" src="https://user-images.githubusercontent.com/118097195/203602839-489fc0e2-d603-4107-96ec-9ba6510facaf.png">
+## azure services 
+<img width="1080" alt="narendra azure" src="https://user-images.githubusercontent.com/118097195/207650259-1aff76ac-aae0-4d53-8c60-ee69e955720b.png">
+
+
 ## Tech Stack 💻
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML
