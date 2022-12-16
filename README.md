@@ -12,6 +12,9 @@ This is a web based application developed for fashion related telugu based websi
 #### 1) static webapps 
 #### 2) health bot service
 
+## ealth bot demo video:
+
+
 ## Features and Functionalities😃😃😃😃
 
 😃 Interactive and responsive UI.
@@ -33,7 +36,14 @@ This is a web based application developed for fashion related telugu based websi
 <img width="1080" alt="grophy" src="https://user-images.githubusercontent.com/118097195/203602761-7a1301d3-801a-4c86-af74-2d9198caf9fb.png">
 ## bot servive
 <img width="1074" alt="bot" src="https://user-images.githubusercontent.com/118097195/203602839-489fc0e2-d603-4107-96ec-9ba6510facaf.png">
-## azure services 
+<img width="1078" alt="nb 1" src="https://user-images.githubusercontent.com/118097195/208027476-82aee0b5-c15b-4a73-aa6e-73bb99c9a68d.png">
+
+<img width="1080" alt="nb2" src="https://user-images.githubusercontent.com/118097195/208027520-3d063775-c3c2-47ce-b319-423ab57d55a4.png">
+<img width="1075" alt="nb3" src="https://user-images.githubusercontent.com/118097195/208027530-09eab407-1f58-48fc-806a-a78bd7032628.png">
+
+## azure services
+
+
 <img width="1080" alt="narendra azure" src="https://user-images.githubusercontent.com/118097195/207650259-1aff76ac-aae0-4d53-8c60-ee69e955720b.png">
 
 
