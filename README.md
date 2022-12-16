@@ -6,8 +6,8 @@ This is a web based application developed for fashion related telugu based websi
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-*Project Link* - https://kind-bush-09ecf4d10.2.azurestaticapps.net
-*Project demo videolink Link* - https://github.com/anknari/for-frt/blob/main/Frederick%20a%20Fashion%20category%20Flat%20bootstrap%20Responsive%20Website%20Template%20_%20Home%20__%20narendra%20-%20Google%20Chrome%202022-12-14%2021-23-40.mp4
+## *Project Link* - https://kind-bush-09ecf4d10.2.azurestaticapps.net
+## *Project demo videolink Link* - https://github.com/anknari/for-frt/blob/main/Frederick%20a%20Fashion%20category%20Flat%20bootstrap%20Responsive%20Website%20Template%20_%20Home%20__%20narendra%20-%20Google%20Chrome%202022-12-14%2021-23-40.mp4
 #### Azure resourses
 #### 1) static webapps 
 #### 2) health bot service
