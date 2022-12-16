@@ -12,7 +12,7 @@ This is a web based application developed for fashion related telugu based websi
 #### 1) static webapps 
 #### 2) health bot service
 
-## ealth bot demo video:
+## Health bot demo video:
 
 
 ## Features and Functionalities😃😃😃😃
