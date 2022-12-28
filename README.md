@@ -1,6 +1,6 @@
 # project-for-FRT-
-# 🥳👀LooK🤩
-## finalpro:Future Ready Talent Project By Dwarapudi Sri deepika
+# FREDERICK
+## finalpro:Future Ready Talent Project By ADHANKI NARENDRA KUMAR
 ##   Fashion Website
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
@@ -11,7 +11,7 @@ IDE           : VS-Code
 
 Industry      : Lifestyle
 
-Project Title : LOOK
+Project Title : FREDERICK
 
 Problem Statement/Opportunity : Good  lifestyle Is needed for evrey person.
 
@@ -21,5 +21,6 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
 Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
-Azure Health Bot URL : 
+Azure Health Bot URL : https://kind-bush-09ecf4d10.2.azurestaticapps.net/bot.html
+
 ## MY WEBSITE LINK IS : https://kind-bush-09ecf4d10.2.azurestaticapps.net
