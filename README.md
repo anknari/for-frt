@@ -19,8 +19,7 @@ Project Description           :  Best lifestyle  Will give the Best health Resul
 
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
-Static Web App URL : https://brave-cliff-012675000.2.azurestaticapps.net
+Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
-Azure Health Bot URL : https://brave-cliff-012675000.2.azurestaticapps.net/bot.html
-
-## MY WEBSITE LINK IS : https://brave-cliff-012675000.2.azurestaticapps.net
+Azure Health Bot URL : 
+## MY WEBSITE LINK IS : https://kind-bush-09ecf4d10.2.azurestaticapps.net
