@@ -23,6 +23,8 @@ Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
 Azure Health Bot URL : https://kind-bush-09ecf4d10.2.azurestaticapps.net/bot.html
 
+App service URL: https://frederick.azurewebsites.net
+
 ## MY WEBSITE LINK IS : https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
 ## HOME
