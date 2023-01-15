@@ -66,6 +66,9 @@ App service URL: https://frederick.azurewebsites.net
 ## BOT US
 
 <img width="1080" alt="bot us block" src="https://user-images.githubusercontent.com/118097195/209845166-5e968e6f-10f4-4bca-8708-e2350ef3018f.png">
+<img width="1078" alt="n bot1" src="https://user-images.githubusercontent.com/118097195/212539041-384b9e0d-4561-4708-a9be-34d9b4ad7f31.png">
+
+
 
 ## azure resources 
 <img width="1080" alt="n azure" src="https://user-images.githubusercontent.com/118097195/212538895-8530b867-383f-4334-b7c6-54e9fc9e7dea.png">
