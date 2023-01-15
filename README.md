@@ -21,7 +21,7 @@ Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
 
 Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
-Azure Health Bot URL : https://kind-bush-09ecf4d10.2.azurestaticapps.net/bot.html
+Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net/bot.html
 
 App service URL: https://frederick.azurewebsites.net
 
