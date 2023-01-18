@@ -17,13 +17,16 @@ Problem Statement/Opportunity : Good  lifestyle Is needed for evrey person.
 
 Project Description           :  Best lifestyle  Will give the Best health Results.
 
-Primary Azure Technology      :  Static Web Apps, Azure Health Bot.
+Primary Azure Technology      :  Static Web Apps, Azure Health Bot, App service.
+.....................................................................................................................................................
 
-Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
+1,Static Web App URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
-Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net/bot.html
+2,Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL :  https://kind-bush-09ecf4d10.2.azurestaticapps.net/bot.html
 
-App service URL: https://frederick.azurewebsites.net
+3,App service URL: https://frederick.azurewebsites.net
+
+........................................................................................................................................................
 
 ## MY WEBSITE LINK IS : https://kind-bush-09ecf4d10.2.azurestaticapps.net
 
